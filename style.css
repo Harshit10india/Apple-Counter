@@ -1,0 +1,28 @@
+section {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-top: 4rem;
+    align-items: center;
+}
+
+button img {
+    max-width: 40px;
+}
+
+.basket-1{
+    align-items: center;
+    background-color: green;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: aliceblue;
+}
+
+.basket-2{
+    align-items: center;
+    background-color: green;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: aliceblue;
+}
